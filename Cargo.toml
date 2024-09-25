@@ -1,0 +1,17 @@
+[package]
+name = "game-of-chess"
+version = "0.1.0"
+edition = "2021"
+authors = ["Pietro Agnoli <pietro_agnoli@proton.me>"]
+description = "A library to handle and play chess games."
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE.txt"
+keywords = ["chess", "fen", "bitboard", "move", "generator"]
+categories = ["game-development"]
+repository = "TheCaptainCraken/game-of-chess"
+
+[badges]
+maintenence = { status = "actively-developed" }
+
+[dependencies]
