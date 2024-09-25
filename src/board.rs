@@ -1,1 +1,1 @@
-mod bitboard;
+pub mod bitboard;
